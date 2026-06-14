@@ -1,6 +1,10 @@
 # 🏋️‍♂️ AI Exercise Form Analyzer
 
+## Live link of this project :- 
 
+### 📊 Exercise Performance Tracking
+
+</div>
  
 <div align="center">
 
@@ -15,6 +19,31 @@
 </div>
 
 # 🌟 Features
+
+# 📸 Project Gallery
+
+<div align="center">
+
+<img src="./screenshots/dashboard.png" width="800">
+
+### 🎛️ Controls & Session Stats
+
+
+<img src="./screenshots/waiting_pose.png" width="800">
+
+### 💬 Real-Time Feedback
+
+
+<img src="./screenshots/pose_detection.png" width="800">
+
+### 🤖 AI Pose Detection
+
+<img src="./screenshots/stats.png" width="800">
+
+### 📊 Exercise Performance Tracking
+
+</div>
+
 
 ### 🎥 Real-Time Camera Analysis
 - Detects body landmarks instantly.
