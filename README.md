@@ -1,6 +1,6 @@
 # 🏋️‍♂️ AI Exercise Form Analyzer
 
-## Live link of this project :- ai-exercise-analyzer-project.vercel.app
+## 👉👉 Live link of this project :- ai-exercise-analyzer-project.vercel.app
 
 
 ### 📊 Exercise Performance Tracking
@@ -25,23 +25,21 @@
 
 <div align="center">
 
-<img src="">
-
 ### 🎛️ Controls & Session Stats
+<img width="1812" height="827" alt="Screenshot 2026-06-14 115228" src="https://github.com/user-attachments/assets/719b7327-6852-4164-81a3-c79c5dc8ab8e" />
 
-
-<img src="./screenshots/waiting_pose.png" width="800">
 
 ### 💬 Real-Time Feedback
+<img width="898" height="731" alt="Screenshot 2026-06-14 115238" src="https://github.com/user-attachments/assets/61f485fa-1f23-4778-b501-8b003889dc62" />
 
-
-<img src="./screenshots/pose_detection.png" width="800">
 
 ### 🤖 AI Pose Detection
+<img width="510" height="527" alt="Screenshot 2026-06-14 204138" src="https://github.com/user-attachments/assets/7dd5a759-96f3-47c6-bf92-d8b9ad0a268c" />
 
-<img src="./screenshots/stats.png" width="800">
 
 ### 📊 Exercise Performance Tracking
+<img width="898" height="731" alt="Screenshot 2026-06-14 115238" src="https://github.com/user-attachments/assets/e869b84e-883a-4536-9064-b47c157e65f1" />
+
 
 </div>
 
