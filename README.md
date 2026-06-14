@@ -1,12 +1,10 @@
 # 🏋️‍♂️ AI Exercise Form Analyzer
 
    ##  Live link of this project :-
-  👉 ai-exercise-analyzer-project.vercel.app
-
+  👉 https://ai-exercise-analyzer-project.vercel.app/
+  
 
 ### 📊 Exercise Performance Tracking
-
-</div>
  
 <div align="center">
 
