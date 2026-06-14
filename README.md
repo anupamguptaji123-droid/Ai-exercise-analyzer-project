@@ -1,6 +1,7 @@
 # 🏋️‍♂️ AI Exercise Form Analyzer
 
-## Live link of this project :- 
+## Live link of this project :- ai-exercise-analyzer-project.vercel.app
+
 
 ### 📊 Exercise Performance Tracking
 
@@ -24,7 +25,7 @@
 
 <div align="center">
 
-<img src="./screenshots/dashboard.png" width="800">
+<img src="">
 
 ### 🎛️ Controls & Session Stats
 
