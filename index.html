@@ -1,0 +1,106 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>🏋️ AI Exercise Form Analyzer</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<div class="navbar">
+    <div class="nav-content">
+        <h1>🏋️ AI Exercise Form Analyzer</h1>
+        <p class="subtitle">Perfect Your Workout Form</p>
+    </div>
+</div>
+
+<div class="main-container">
+    <div class="left-panel">
+        <div class="video-container">
+            <video id="video" width="640" height="480" autoplay></video>
+            <canvas id="canvas"></canvas>
+            <div class="video-overlay" id="videoOverlay"></div>
+        </div>
+    </div>
+
+    <div class="right-panel">
+        <div class="control-section">
+            <h2>⚙️ Controls</h2>
+            <div class="form-group">
+                <label for="exerciseSelect">Select Exercise:</label>
+                <select id="exerciseSelect">
+                    <option value="squat">🦵 Squat</option>
+                    <option value="pushup">💪 Push-up</option>
+                    <option value="deadlift">🏋️ Deadlift</option>
+                    <option value="shoulder-press">🎯 Shoulder Press</option>
+                </select>
+            </div>
+            <div class="button-group">
+                <button class="btn btn-primary" onclick="startCamera()">▶️ Start Camera</button>
+                <button class="btn btn-danger" onclick="stopCamera()">⏹️ Stop Camera</button>
+                <button class="btn btn-secondary" onclick="resetStats()">🔄 Reset Stats</button>
+            </div>
+        </div>
+
+        <div class="stats-section">
+            <h2>📊 Session Stats</h2>
+            <div class="stat-box">
+                <div class="stat-item">
+                    <span class="stat-label">Reps</span>
+                    <span class="stat-value" id="repCount">0</span>
+                </div>
+                <div class="stat-item">
+                    <span class="stat-label">Form Quality</span>
+                    <span class="stat-value" id="formQuality">--</span>
+                </div>
+                <div class="stat-item">
+                    <span class="stat-label">Body Stability</span>
+                    <span class="stat-value" id="stability">--</span>
+                </div>
+            </div>
+        </div>
+
+        <div class="feedback-section">
+            <h2>💬 Real-time Feedback</h2>
+            <div class="feedback-box" id="feedback">
+                <p class="feedback-text">Waiting to detect pose...</p>
+            </div>
+        </div>
+
+        <div class="angles-section">
+            <h2>📐 Joint Angles</h2>
+            <div class="angles-grid">
+                <div class="angle-item">
+                    <span>Left Knee</span>
+                    <span class="angle-value" id="leftKnee">--°</span>
+                </div>
+                <div class="angle-item">
+                    <span>Right Knee</span>
+                    <span class="angle-value" id="rightKnee">--°</span>
+                </div>
+                <div class="angle-item">
+                    <span>Left Elbow</span>
+                    <span class="angle-value" id="leftElbow">--°</span>
+                </div>
+                <div class="angle-item">
+                    <span>Right Elbow</span>
+                    <span class="angle-value" id="rightElbow">--°</span>
+                </div>
+                <div class="angle-item">
+                    <span>Spine Angle</span>
+                    <span class="angle-value" id="spineAngle">--°</span>
+                </div>
+                <div class="angle-item">
+                    <span>Hip Angle</span>
+                    <span class="angle-value" id="hipAngle">--°</span>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<script src="script.js"></script>
+
+</body>
+</html>
