@@ -14,7 +14,7 @@
 📊 Exercise statistics tracking  
 📐 Joint angle analysis  
 💬 Live feedback system  
-🤖 AI-powered form evaluation
+🤖 AI-powered form evaluation 
 
 </div>
 
