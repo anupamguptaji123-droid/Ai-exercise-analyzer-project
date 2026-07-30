@@ -1,7 +1,4 @@
 # 🏋️‍♂️ AI Exercise Form Analyzer
-  
-
-### 📊 Exercise Performance Tracking
  
 <div align="center">
 
