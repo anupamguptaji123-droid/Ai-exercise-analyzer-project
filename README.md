@@ -154,6 +154,6 @@ This project is licensed under the **MIT License**.
 
 ### ⭐ If you like this project, don't forget to Star the Repository!
 
-Made with ❤️ by **Anupam Gupta**
+Made with ❤️ by **Anupam Kumari**
 
 </div>
