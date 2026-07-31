@@ -110,18 +110,7 @@ http://127.0.0.1:5000
 
 ---
 
-# 📸 Screenshots
 
-> Add screenshots here after deploying your project.
-
-<img width="852" height="662" alt="Screenshot 2026-06-14 205122" src="https://github.com/user-attachments/assets/4e04cff4-98ee-4e31-9696-37554cfc8ddf" />
-<img width="842" height="293" alt="Screenshot 2026-06-14 205113" src="https://github.com/user-attachments/assets/17507b35-192e-4212-89aa-b46d5a49398c" />
-<img width="633" height="421" alt="Screenshot 2026-06-14 204051" src="https://github.com/user-attachments/assets/0063ed07-6076-4c37-8b48-aa3eb58631f3" />
-/home.png
-screenshots/result.pn
-
-
----
 
 # 🎯 Future Improvements
 
