@@ -15,7 +15,6 @@ A simple and interactive Exercise Analyzer that helps users analyze workouts and
 
 </div>
 
----
 
 # 📌 About
 
@@ -23,7 +22,6 @@ The **Exercise Analyzer** is a web application developed using **Python (Flask)*
 
 The application provides a clean interface where users can interact with exercise analysis features. It is lightweight, responsive, and beginner-friendly.
 
----
 
 # ✨ Features
 
@@ -36,7 +34,6 @@ The application provides a clean interface where users can interact with exercis
 - 🚀 Easy to Run
 - 📊 Real-time Results
 
----
 
 # 🛠️ Technologies Used
 
@@ -48,7 +45,6 @@ The application provides a clean interface where users can interact with exercis
 | CSS3 | Styling |
 | JavaScript | Client-side Functionality |
 
----
 
 # 📂 Project Structure
 
@@ -64,7 +60,7 @@ Exercise-Analyzer/
 └── .vscode/
 ```
 
----
+
 
 # ⚙️ Installation
 
