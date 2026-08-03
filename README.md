@@ -94,7 +94,6 @@ Open Browser
 http://127.0.0.1:5000
 ```
 
----
 
 # 🚀 How It Works
 
@@ -104,7 +103,6 @@ http://127.0.0.1:5000
 4. Submit the data.
 5. View the analysis and results.
 
----
 
 
 
@@ -117,7 +115,6 @@ http://127.0.0.1:5000
 - ✅ Dashboard
 - ✅ Dark Mode
 
----
 
 # 🤝 Contributing
 
@@ -129,13 +126,11 @@ Contributions are welcome!
 4. Push your branch.
 5. Create a Pull Request.
 
----
 
 # 📄 License
 
 This project is licensed under the **MIT License**.
 
----
 
 <div align="center">
 
