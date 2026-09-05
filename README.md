@@ -1,6 +1,5 @@
 <div align="center">
 
-
 # 💪 Exercise Analyzer
 
 ### 🚀 Analyze Exercises with AI & Computer Vision
